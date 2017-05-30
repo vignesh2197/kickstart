@@ -1,2 +1,2 @@
 # kickstart
-Hallelujah!
+Allahu Akbar!
