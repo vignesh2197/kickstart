@@ -1,2 +1,2 @@
 # kickstart
-Hello World
+You know nothing, Jon Snow!
